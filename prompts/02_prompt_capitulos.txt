@@ -1,0 +1,3 @@
+Prompt utilizado para gerar capítulos:
+
+"Quero que você escreva capítulo por capítulo, com linguagem simples, didática e adequada para iniciantes. Eu vou revisar cada um e você seguirá para o próximo apenas quando eu disser 'próximo'."

@@ -1,0 +1,3 @@
+Prompt utilizado para planejar o e-book:
+
+"Me ajude a escolher o tema com base nas informações do meu currículo. Quero criar um e-book de tecnologia que faça sentido para meu perfil profissional."

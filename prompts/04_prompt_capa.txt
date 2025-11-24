@@ -1,0 +1,3 @@
+Prompt utilizado para definir estilo visual da capa:
+
+"Quero criar uma capa minimalista e moderna para o meu e-book. A paleta deve usar laranja, branco e preto, com visual limpo, profissional e focado em tecnologia. A capa precisa ter destaque no título e seguir o estilo minimalista moderno."

@@ -1,0 +1,3 @@
+Prompt utilizado para apoio na diagramação:
+
+"Quero orientações de como montar a formatação e o estilo visual do meu e-book no estilo minimalista moderno. A diagramação será feita por mim, mas preciso que você descreva margens, fontes, espaçamentos e elementos visuais para aplicar no arquivo."
